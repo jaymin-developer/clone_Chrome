@@ -44,6 +44,10 @@ li:before {
   padding: 5px;
 }
 
+.first {
+  margin-bottom: 30px;
+}
+
 button {
   border: none;
   background: transparent;
